@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../gitTest1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="E:\workspace2017\grel\Test2018" vcs="Git" />
+    <mapping directory="E:\workspace2017\grel\TestGit" vcs="Git" />
   </component>
 </project>
